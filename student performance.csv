@@ -1,0 +1,462 @@
+﻿gen,lun,Sum of math score,parental level of education,race/ethnicity,Sum of reading score,test preparation course,Sum of Total Score,Sum of writing score,Performance,Pass/Fail,Sum of AVG Score,Sum of AVG Round
+female,free/reduced,37,associate's degree,group A,75,none,190,78, Very Good,Pass,63.333333333333336,63.3
+female,free/reduced,41,associate's degree,group A,49,none,141,51,Good,Fail,47,47
+female,free/reduced,58,associate's degree,group B,67,completed,195,70, Very Good,Pass,65,65
+female,free/reduced,315,associate's degree,group B,353,none,1020,352, Very Good,Pass,340,340
+female,free/reduced,35,associate's degree,group B,34,none,105,36,Poor,Fail,35,35
+female,free/reduced,189,associate's degree,group C,224,completed,648,235, Very Good,Pass,216,216.1
+female,free/reduced,247,associate's degree,group C,279,completed,818,292,Excellent,Pass,272.66666666666663,272.6
+female,free/reduced,131,associate's degree,group C,139,none,405,135, Very Good,Pass,135,135
+female,free/reduced,35,associate's degree,group C,40,none,120,45,Good,Fail,40,40
+female,free/reduced,96,associate's degree,group C,120,none,337,121,Good,Pass,112.33333333333334,112.3
+female,free/reduced,28,associate's degree,group C,32,none,88,28,Poor,Fail,29.333333333333332,29.3
+female,free/reduced,137,associate's degree,group D,139,completed,430,154, Very Good,Pass,143.33333333333334,143.4
+female,free/reduced,47,associate's degree,group D,58,completed,161,56,Good,Pass,53.666666666666664,53.7
+female,free/reduced,201,associate's degree,group D,219,none,649,229, Very Good,Pass,216.33333333333331,216.3
+female,free/reduced,84,associate's degree,group D,126,none,331,121,Good,Pass,110.33333333333334,110.3
+female,free/reduced,83,associate's degree,group E,86,completed,260,91,Excellent,Pass,86.66666666666667,86.7
+female,free/reduced,60,associate's degree,group E,74,none,202,68, Very Good,Pass,67.33333333333333,67.3
+female,free/reduced,243,associate's degree,group E,252,none,758,263,Excellent,Pass,252.66666666666663,252.6
+female,free/reduced,127,bachelor's degree,group A,139,none,412,146, Very Good,Pass,137.33333333333331,137.3
+female,free/reduced,49,bachelor's degree,group B,57,completed,167,61,Good,Pass,55.666666666666664,55.7
+female,free/reduced,50,bachelor's degree,group B,62,none,174,62,Good,Pass,58,58
+female,free/reduced,130,bachelor's degree,group C,146,completed,433,157, Very Good,Pass,144.33333333333331,144.3
+female,free/reduced,44,bachelor's degree,group C,45,completed,141,52,Good,Fail,47,47
+female,free/reduced,54,bachelor's degree,group C,57,completed,174,63,Good,Pass,58,58
+female,free/reduced,69,bachelor's degree,group C,78,none,225,78, Very Good,Pass,75,75
+female,free/reduced,55,bachelor's degree,group C,56,none,165,54,Good,Pass,55,55
+female,free/reduced,168,bachelor's degree,group D,223,completed,619,228, Very Good,Pass,206.33333333333334,206.3
+female,free/reduced,81,bachelor's degree,group D,96,completed,276,99,Excellent,Pass,92,92
+female,free/reduced,137,bachelor's degree,group D,164,none,462,161, Very Good,Pass,154,154
+female,free/reduced,73,bachelor's degree,group D,85,none,241,83,Excellent,Pass,80.33333333333333,80.3
+female,free/reduced,68,bachelor's degree,group E,82,completed,236,86, Very Good,Pass,78.66666666666667,78.7
+female,free/reduced,63,bachelor's degree,group E,61,none,188,64, Very Good,Pass,62.666666666666664,62.7
+female,free/reduced,34,high school,group A,49,none,130,47,Good,Fail,43.333333333333336,43.3
+female,free/reduced,129,high school,group B,144,completed,412,139, Very Good,Pass,137.33333333333334,137.3
+female,free/reduced,75,high school,group B,90,completed,260,95,Excellent,Pass,86.66666666666667,86.7
+female,free/reduced,94,high school,group B,127,completed,344,123,Good,Pass,114.66666666666667,114.6
+female,free/reduced,293,high school,group B,362,none,1005,350, Very Good,Pass,335,335
+female,free/reduced,68,high school,group B,102,none,268,98,Good,Fail,89.33333333333334,89.3
+female,free/reduced,192,high school,group B,244,none,657,221,Good,Pass,219,219
+female,free/reduced,174,high school,group C,221,completed,607,212, Very Good,Pass,202.33333333333331,202.4
+female,free/reduced,34,high school,group C,66,completed,159,59,Good,Pass,53,53
+female,free/reduced,51,high school,group C,68,none,185,66, Very Good,Pass,61.666666666666664,61.7
+female,free/reduced,76,high school,group C,90,none,250,84,Excellent,Pass,83.33333333333333,83.3
+female,free/reduced,39,high school,group C,50,none,130,41,Good,Fail,43.333333333333336,43.3
+female,free/reduced,56,high school,group C,62,none,175,57,Good,Pass,58.333333333333336,58.3
+female,free/reduced,24,high school,group C,48,none,118,46,Poor,Fail,39.333333333333336,39.3
+female,free/reduced,139,high school,group D,151,completed,452,162, Very Good,Pass,150.66666666666666,150.6
+female,free/reduced,78,high school,group D,86,completed,252,88,Excellent,Pass,84,84
+female,free/reduced,39,high school,group D,52,completed,149,58,Good,Fail,49.666666666666664,49.7
+female,free/reduced,68,high school,group D,73,none,212,71, Very Good,Pass,70.66666666666667,70.7
+female,free/reduced,143,high school,group D,185,none,520,192,Good,Pass,173.33333333333334,173.3
+female,free/reduced,15,high school,group D,39,none,94,40,Poor,Fail,31.333333333333332,31.3
+female,free/reduced,328,high school,group E,357,completed,1059,374, Very Good,Pass,353,353
+female,free/reduced,80,high school,group E,94,completed,271,97,Excellent,Pass,90.33333333333333,90.3
+female,free/reduced,136,high school,group E,158,none,433,139, Very Good,Pass,144.33333333333331,144.3
+female,free/reduced,85,high school,group E,91,none,264,88,Excellent,Pass,88,88
+female,free/reduced,71,master's degree,group C,92,completed,256,93,Excellent,Pass,85.33333333333333,85.3
+female,free/reduced,43,master's degree,group C,57,none,159,59,Good,Pass,53,53
+female,free/reduced,73,master's degree,group D,72,none,220,75, Very Good,Pass,73.33333333333333,73.3
+female,free/reduced,93,master's degree,group D,98,none,285,94,Excellent,Pass,95,95
+female,free/reduced,32,master's degree,group D,35,none,104,37,Poor,Fail,34.666666666666664,34.7
+female,free/reduced,74,master's degree,group E,83,completed,241,84,Excellent,Pass,80.33333333333333,80.3
+female,free/reduced,75,some college,group A,97,completed,264,92,Excellent,Pass,88,88
+female,free/reduced,54,some college,group A,56,none,168,58,Good,Pass,56,56
+female,free/reduced,182,some college,group B,214,completed,612,216, Very Good,Pass,204,203.9
+female,free/reduced,27,some college,group B,49,completed,126,50,Good,Fail,42,42
+female,free/reduced,47,some college,group B,61,completed,172,64,Good,Pass,57.333333333333336,57.3
+female,free/reduced,37,some college,group B,51,none,139,51,Good,Fail,46.333333333333336,46.3
+female,free/reduced,186,some college,group C,239,completed,659,234, Very Good,Pass,219.66666666666663,219.6
+female,free/reduced,67,some college,group C,89,completed,245,89,Excellent,Pass,81.66666666666667,81.7
+female,free/reduced,44,some college,group C,44,completed,141,53,Good,Fail,47,47
+female,free/reduced,41,some college,group C,59,completed,156,56,Good,Pass,52,52
+female,free/reduced,200,some college,group C,219,none,633,214, Very Good,Pass,211,211
+female,free/reduced,35,some college,group C,47,none,125,43,Good,Fail,41.666666666666664,41.7
+female,free/reduced,86,some college,group C,123,none,329,120,Good,Pass,109.66666666666666,109.7
+female,free/reduced,130,some college,group D,153,completed,450,167, Very Good,Pass,150,150
+female,free/reduced,178,some college,group D,225,none,626,223, Very Good,Pass,208.66666666666666,208.7
+female,free/reduced,79,some college,group D,93,none,269,97,Good,Fail,89.66666666666666,89.7
+female,free/reduced,41,some college,group D,58,none,159,60,Good,Pass,53,53
+female,free/reduced,219,some college,group E,234,none,690,237, Very Good,Pass,230,230.1
+female,free/reduced,84,some college,group E,88,none,254,82,Excellent,Pass,84.66666666666667,84.7
+female,free/reduced,41,some college,group E,60,none,156,55,Good,Pass,52,52
+female,free/reduced,53,some high school,group A,77,completed,205,75, Very Good,Pass,68.33333333333333,68.3
+female,free/reduced,57,some high school,group A,70,none,198,71, Very Good,Pass,66,66
+female,free/reduced,47,some high school,group A,58,none,159,54,Good,Pass,53,53
+female,free/reduced,64,some high school,group B,72,completed,215,79, Very Good,Pass,71.66666666666667,71.7
+female,free/reduced,73,some high school,group B,91,completed,252,88,Excellent,Pass,84,84
+female,free/reduced,37,some high school,group B,48,completed,131,46,Good,Fail,43.666666666666664,43.7
+female,free/reduced,46,some high school,group B,63,completed,175,66,Good,Pass,58.333333333333336,58.3
+female,free/reduced,181,some high school,group B,233,none,633,219, Very Good,Pass,210.99999999999997,211
+female,free/reduced,72,some high school,group B,103,none,275,100,Good,Fail,91.66666666666667,91.6
+female,free/reduced,180,some high school,group C,221,completed,622,221, Very Good,Pass,207.33333333333331,207.3
+female,free/reduced,52,some high school,group C,59,completed,169,58,Good,Pass,56.333333333333336,56.3
+female,free/reduced,72,some high school,group C,89,none,248,87,Good,Fail,82.66666666666667,82.6
+female,free/reduced,48,some high school,group C,60,none,165,57,Good,Pass,55,55
+female,free/reduced,239,some high school,group D,303,completed,853,311, Very Good,Pass,284.3333333333333,284.3
+female,free/reduced,41,some high school,group D,58,completed,158,59,Good,Pass,52.666666666666664,52.7
+female,free/reduced,118,some high school,group D,132,none,385,135, Very Good,Pass,128.33333333333331,128.3
+female,free/reduced,30,some high school,group D,59,none,140,51,Good,Fail,46.666666666666664,46.7
+female,free/reduced,65,some high school,group E,72,completed,213,76, Very Good,Pass,71,71
+female,free/reduced,88,some high school,group E,116,completed,320,116,Good,Pass,106.66666666666667,106.6
+female,free/reduced,125,some high school,group E,143,none,389,121, Very Good,Pass,129.66666666666669,129.7
+female,standard,73,associate's degree,group A,68,completed,222,81, Very Good,Pass,74,74
+female,standard,329,associate's degree,group A,372,none,1057,356, Very Good,Pass,352.3333333333333,352.3
+female,standard,53,associate's degree,group A,57,none,170,60,Good,Pass,56.666666666666664,56.7
+female,standard,252,associate's degree,group B,281,completed,831,298, Very Good,Pass,277,277
+female,standard,335,associate's degree,group B,368,completed,1081,378,Excellent,Pass,360.33333333333337,360.4
+female,standard,203,associate's degree,group B,231,none,665,231, Very Good,Pass,221.66666666666663,221.6
+female,standard,558,associate's degree,group B,643,none,1821,620,Excellent,Pass,606.9999999999999,607
+female,standard,75,associate's degree,group C,74,completed,229,80, Very Good,Pass,76.33333333333333,76.3
+female,standard,328,associate's degree,group C,356,completed,1058,374,Excellent,Pass,352.6666666666667,352.7
+female,standard,653,associate's degree,group C,747,none,2139,739, Very Good,Pass,713,713
+female,standard,163,associate's degree,group C,187,none,528,178,Excellent,Pass,176,176
+female,standard,44,associate's degree,group C,49,none,146,53,Good,Fail,48.666666666666664,48.7
+female,standard,132,associate's degree,group D,142,completed,424,150, Very Good,Pass,141.33333333333331,141.3
+female,standard,237,associate's degree,group D,267,completed,781,277,Excellent,Pass,260.3333333333333,260.3
+female,standard,327,associate's degree,group D,357,none,1040,356, Very Good,Pass,346.6666666666667,346.7
+female,standard,326,associate's degree,group D,354,none,1036,356,Excellent,Pass,345.33333333333337,345.4
+female,standard,82,associate's degree,group D,99,none,274,93,Good,Fail,91.33333333333334,91.3
+female,standard,61,associate's degree,group D,56,none,177,60,Good,Pass,59,59
+female,standard,86,associate's degree,group E,89,completed,271,96,Excellent,Pass,90.33333333333333,90.3
+female,standard,155,associate's degree,group E,149,none,446,142, Very Good,Pass,148.66666666666669,148.7
+female,standard,270,associate's degree,group E,276,none,825,279,Excellent,Pass,275,275
+female,standard,139,bachelor's degree,group A,159,completed,454,156, Very Good,Pass,151.33333333333334,151.4
+female,standard,185,bachelor's degree,group B,214,completed,613,214, Very Good,Pass,204.33333333333331,204.3
+female,standard,247,bachelor's degree,group B,274,completed,814,293,Excellent,Pass,271.33333333333337,271.4
+female,standard,65,bachelor's degree,group B,79,none,217,73, Very Good,Pass,72.33333333333333,72.3
+female,standard,326,bachelor's degree,group B,346,none,1028,356,Excellent,Pass,342.6666666666667,342.7
+female,standard,74,bachelor's degree,group C,79,completed,237,84, Very Good,Pass,79,79
+female,standard,92,bachelor's degree,group C,88,completed,274,94,Excellent,Pass,91.33333333333333,91.3
+female,standard,313,bachelor's degree,group C,364,none,1047,370, Very Good,Pass,349,349
+female,standard,79,bachelor's degree,group C,86,none,243,78,Excellent,Pass,81,81
+female,standard,60,bachelor's degree,group D,74,completed,206,72, Very Good,Pass,68.66666666666667,68.7
+female,standard,83,bachelor's degree,group D,100,completed,283,100,Excellent,Pass,94.33333333333333,94.3
+female,standard,78,bachelor's degree,group D,80,none,237,79, Very Good,Pass,79,79
+female,standard,41,bachelor's degree,group D,51,none,145,53,Good,Fail,48.333333333333336,48.3
+female,standard,58,bachelor's degree,group D,61,none,178,59,Good,Pass,59.333333333333336,59.3
+female,standard,57,bachelor's degree,group E,69,completed,203,77, Very Good,Pass,67.66666666666667,67.7
+female,standard,190,bachelor's degree,group E,187,completed,568,191,Excellent,Pass,189.33333333333331,189.3
+female,standard,66,bachelor's degree,group E,65,none,207,76, Very Good,Pass,69,69
+female,standard,184,bachelor's degree,group E,182,none,556,190,Excellent,Pass,185.33333333333334,185.4
+female,standard,52,bachelor's degree,group E,53,none,160,55,Good,Pass,53.333333333333336,53.3
+female,standard,124,high school,group A,143,completed,410,143, Very Good,Pass,136.66666666666669,136.7
+female,standard,82,high school,group A,95,completed,270,93,Excellent,Pass,90,90
+female,standard,360,high school,group A,424,none,1195,411, Very Good,Pass,398.33333333333326,398.2
+female,standard,158,high school,group A,183,none,510,169,Excellent,Pass,170,170
+female,standard,138,high school,group B,135,completed,411,138, Very Good,Pass,137,137
+female,standard,158,high school,group B,172,completed,509,179,Excellent,Pass,169.66666666666669,169.7
+female,standard,242,high school,group B,276,none,786,268, Very Good,Pass,262,262.1
+female,standard,74,high school,group B,90,none,247,83,Excellent,Pass,82.33333333333333,82.3
+female,standard,45,high school,group B,52,none,148,51,Good,Fail,49.333333333333336,49.3
+female,standard,52,high school,group B,56,none,162,54,Good,Pass,54,54
+female,standard,211,high school,group C,282,completed,772,279, Very Good,Pass,257.3333333333333,257.3
+female,standard,80,high school,group C,83,completed,249,86,Excellent,Pass,83,83
+female,standard,639,high school,group C,703,none,2005,663, Very Good,Pass,668.3333333333333,668.3
+female,standard,331,high school,group C,347,none,1010,332,Excellent,Pass,336.6666666666667,336.7
+female,standard,31,high school,group C,49,none,122,42,Good,Fail,40.666666666666664,40.7
+female,standard,166,high school,group C,181,none,526,179,Good,Pass,175.33333333333334,175.3
+female,standard,21,high school,group C,30,none,77,26,Poor,Fail,25.666666666666668,25.7
+female,standard,188,high school,group D,224,completed,631,219, Very Good,Pass,210.33333333333337,210.4
+female,standard,349,high school,group D,386,completed,1121,386,Excellent,Pass,373.66666666666663,373.6
+female,standard,244,high school,group D,283,none,806,279, Very Good,Pass,268.6666666666667,268.7
+female,standard,77,high school,group D,90,none,249,82,Excellent,Pass,83,83
+female,standard,44,high school,group D,47,none,146,55,Good,Fail,48.666666666666664,48.7
+female,standard,54,high school,group D,62,none,178,62,Good,Pass,59.333333333333336,59.3
+female,standard,71,high school,group E,83,none,233,79, Very Good,Pass,77.66666666666667,77.7
+female,standard,432,high school,group E,443,none,1315,440,Excellent,Pass,438.3333333333333,438.2
+female,standard,174,high school,group E,169,none,512,169,Good,Pass,170.66666666666666,170.7
+female,standard,68,master's degree,group A,76,completed,220,76, Very Good,Pass,73.33333333333333,73.3
+female,standard,68,master's degree,group A,70,none,210,72, Very Good,Pass,70,70
+female,standard,59,master's degree,group B,75,completed,213,79, Very Good,Pass,71,71
+female,standard,133,master's degree,group B,135,none,406,138, Very Good,Pass,135.33333333333331,135.3
+female,standard,53,master's degree,group B,61,none,173,59,Good,Pass,57.666666666666664,57.7
+female,standard,193,master's degree,group C,222,completed,659,244, Very Good,Pass,219.66666666666663,219.6
+female,standard,241,master's degree,group C,265,completed,772,266,Excellent,Pass,257.3333333333333,257.3
+female,standard,50,master's degree,group C,64,completed,177,63,Good,Pass,59,59
+female,standard,340,master's degree,group C,381,none,1092,371, Very Good,Pass,363.99999999999994,363.9
+female,standard,64,master's degree,group D,67,completed,203,72, Very Good,Pass,67.66666666666667,67.7
+female,standard,87,master's degree,group D,95,completed,282,100,Excellent,Pass,94,94
+female,standard,263,master's degree,group D,286,none,858,309, Very Good,Pass,286,286
+female,standard,76,master's degree,group E,77,none,230,77, Very Good,Pass,76.66666666666667,76.7
+female,standard,85,master's degree,group E,90,none,263,88,Excellent,Pass,87.66666666666667,87.7
+female,standard,62,some college,group A,64,none,189,63, Very Good,Pass,63,63
+female,standard,83,some college,group A,91,none,266,92,Excellent,Pass,88.66666666666667,88.7
+female,standard,51,some college,group A,46,none,139,42,Good,Fail,46.333333333333336,46.3
+female,standard,197,some college,group B,233,completed,670,240, Very Good,Pass,223.33333333333337,223.4
+female,standard,169,some college,group B,190,completed,552,193,Excellent,Pass,184,184
+female,standard,92,some college,group B,121,completed,336,123,Good,Pass,112,112
+female,standard,310,some college,group B,346,none,998,342, Very Good,Pass,332.66666666666663,332.7
+female,standard,250,some college,group B,277,none,801,274,Excellent,Pass,267,267
+female,standard,108,some college,group B,112,none,328,108,Good,Pass,109.33333333333334,109.3
+female,standard,206,some college,group C,228,completed,643,209, Very Good,Pass,214.33333333333331,214.3
+female,standard,238,some college,group C,264,completed,771,269,Excellent,Pass,257,257
+female,standard,386,some college,group C,434,none,1240,420, Very Good,Pass,413.33333333333337,413.3
+female,standard,559,some college,group C,623,none,1776,594,Excellent,Pass,592,591.9
+female,standard,91,some college,group C,98,none,284,95,Good,Fail,94.66666666666666,94.7
+female,standard,221,some college,group C,238,none,687,228,Good,Pass,229,229
+female,standard,188,some college,group D,217,completed,640,235, Very Good,Pass,213.33333333333337,213.4
+female,standard,81,some college,group D,99,completed,276,96,Excellent,Pass,92,92
+female,standard,619,some college,group D,650,none,1935,666, Very Good,Pass,644.9999999999999,645
+female,standard,157,some college,group D,186,none,528,185,Excellent,Pass,176,176
+female,standard,56,some college,group D,53,none,167,58,Good,Pass,55.666666666666664,55.7
+female,standard,146,some college,group E,161,completed,460,153, Very Good,Pass,153.33333333333331,153.3
+female,standard,353,some college,group E,366,completed,1093,374,Excellent,Pass,364.3333333333333,364.3
+female,standard,200,some college,group E,210,none,608,198, Very Good,Pass,202.66666666666669,202.7
+female,standard,172,some college,group E,183,none,541,186,Excellent,Pass,180.33333333333331,180.3
+female,standard,121,some high school,group A,149,completed,431,161, Very Good,Pass,143.66666666666666,143.6
+female,standard,140,some high school,group A,157,none,450,153, Very Good,Pass,150,150
+female,standard,57,some high school,group A,53,none,164,54,Good,Pass,54.666666666666664,54.7
+female,standard,69,some high school,group B,76,completed,217,72, Very Good,Pass,72.33333333333333,72.3
+female,standard,189,some high school,group B,224,none,631,218, Very Good,Pass,210.33333333333331,210.3
+female,standard,83,some high school,group B,86,none,258,89,Excellent,Pass,86,86
+female,standard,81,some high school,group B,107,none,278,90,Good,Fail,92.66666666666666,92.7
+female,standard,144,some high school,group B,189,none,507,174,Good,Pass,169,169
+female,standard,69,some high school,group C,84,completed,234,81, Very Good,Pass,78,78
+female,standard,481,some high school,group C,517,none,1510,512, Very Good,Pass,503.33333333333326,503.2
+female,standard,249,some high school,group C,268,none,774,257,Excellent,Pass,258,258
+female,standard,113,some high school,group C,109,none,328,106,Good,Pass,109.33333333333334,109.3
+female,standard,23,some high school,group C,33,none,89,33,Poor,Fail,29.666666666666668,29.7
+female,standard,102,some high school,group D,145,completed,393,146, Very Good,Pass,131,131
+female,standard,323,some high school,group D,355,completed,1044,366,Excellent,Pass,348,348
+female,standard,344,some high school,group D,365,none,1070,361, Very Good,Pass,356.66666666666663,356.6
+female,standard,83,some high school,group D,92,none,268,93,Excellent,Pass,89.33333333333333,89.3
+female,standard,53,some high school,group D,55,none,165,57,Good,Pass,55,55
+female,standard,25,some high school,group D,33,none,90,32,Poor,Fail,30,30
+female,standard,355,some high school,group E,374,completed,1109,380,Excellent,Pass,369.6666666666667,369.7
+female,standard,98,some high school,group E,154,none,380,128, Very Good,Pass,126.66666666666666,126.6
+female,standard,256,some high school,group E,270,none,781,255,Excellent,Pass,260.3333333333333,260.3
+female,standard,48,some high school,group E,60,none,165,57,Good,Pass,55,55
+male,free/reduced,275,associate's degree,group A,276,completed,823,272, Very Good,Pass,274.3333333333333,274.4
+male,free/reduced,56,associate's degree,group A,60,completed,179,63,Good,Pass,59.666666666666664,59.7
+male,free/reduced,68,associate's degree,group B,73,completed,213,72, Very Good,Pass,71,71
+male,free/reduced,84,associate's degree,group B,91,completed,264,89,Excellent,Pass,88,88
+male,free/reduced,50,associate's degree,group B,56,completed,161,55,Good,Pass,53.666666666666664,53.7
+male,free/reduced,74,associate's degree,group B,79,none,218,65, Very Good,Pass,72.66666666666667,72.7
+male,free/reduced,45,associate's degree,group B,52,none,142,45,Good,Fail,47.333333333333336,47.3
+male,free/reduced,117,associate's degree,group B,118,none,349,114,Good,Pass,116.33333333333334,116.3
+male,free/reduced,192,associate's degree,group C,204,completed,585,189, Very Good,Pass,195,195
+male,free/reduced,161,associate's degree,group C,167,completed,494,166,Excellent,Pass,164.66666666666669,164.7
+male,free/reduced,93,associate's degree,group C,95,completed,285,97,Good,Fail,95,95
+male,free/reduced,121,associate's degree,group C,115,completed,353,117,Good,Pass,117.66666666666667,117.6
+male,free/reduced,286,associate's degree,group C,283,none,846,277, Very Good,Pass,282,282
+male,free/reduced,82,associate's degree,group C,86,none,246,78,Excellent,Pass,82,82
+male,free/reduced,119,associate's degree,group C,113,none,333,101,Good,Pass,111,111
+male,free/reduced,39,associate's degree,group C,44,none,119,36,Poor,Fail,39.666666666666664,39.7
+male,free/reduced,75,associate's degree,group D,78,completed,230,77, Very Good,Pass,76.66666666666667,76.7
+male,free/reduced,82,associate's degree,group D,78,completed,250,90,Excellent,Pass,83.33333333333333,83.3
+male,free/reduced,57,associate's degree,group D,58,completed,169,54,Good,Pass,56.333333333333336,56.3
+male,free/reduced,150,associate's degree,group D,145,none,425,130, Very Good,Pass,141.66666666666669,141.7
+male,free/reduced,49,associate's degree,group D,54,none,153,50,Good,Pass,51,51
+male,free/reduced,66,associate's degree,group E,60,completed,190,64, Very Good,Pass,63.333333333333336,63.3
+male,free/reduced,57,associate's degree,group E,45,none,144,42,Good,Fail,48,48
+male,free/reduced,48,bachelor's degree,group B,59,completed,162,55,Good,Pass,54,54
+male,free/reduced,146,bachelor's degree,group B,144,none,432,142, Very Good,Pass,144,144
+male,free/reduced,50,bachelor's degree,group B,40,none,128,38,Good,Fail,42.666666666666664,42.7
+male,free/reduced,112,bachelor's degree,group B,113,none,318,93,Good,Pass,106,106
+male,free/reduced,72,bachelor's degree,group C,70,completed,212,70, Very Good,Pass,70.66666666666667,70.7
+male,free/reduced,196,bachelor's degree,group C,196,none,586,194, Very Good,Pass,195.33333333333334,195.4
+male,free/reduced,47,bachelor's degree,group C,53,none,142,42,Good,Fail,47.333333333333336,47.3
+male,free/reduced,51,bachelor's degree,group C,53,none,155,51,Good,Pass,51.666666666666664,51.7
+male,free/reduced,72,bachelor's degree,group D,71,none,208,65, Very Good,Pass,69.33333333333333,69.3
+male,free/reduced,85,bachelor's degree,group D,78,none,244,81,Excellent,Pass,81.33333333333333,81.3
+male,free/reduced,63,bachelor's degree,group D,59,none,173,51,Good,Pass,57.666666666666664,57.7
+male,free/reduced,149,bachelor's degree,group E,148,none,429,132, Very Good,Pass,143,143
+male,free/reduced,70,high school,group A,74,none,209,65, Very Good,Pass,69.66666666666667,69.7
+male,free/reduced,44,high school,group A,49,none,136,43,Good,Fail,45.333333333333336,45.3
+male,free/reduced,149,high school,group B,149,completed,441,143, Very Good,Pass,147,147
+male,free/reduced,59,high school,group B,62,completed,179,58,Good,Pass,59.666666666666664,59.7
+male,free/reduced,65,high school,group B,55,none,171,51,Good,Pass,57,57
+male,free/reduced,141,high school,group C,151,completed,434,142, Very Good,Pass,144.66666666666669,144.7
+male,free/reduced,95,high school,group C,110,completed,311,106,Good,Pass,103.66666666666666,103.7
+male,free/reduced,354,high school,group C,356,none,1026,316, Very Good,Pass,342,342
+male,free/reduced,45,high school,group C,43,none,135,47,Good,Fail,45,45
+male,free/reduced,155,high school,group C,184,none,501,162,Good,Pass,167,167
+male,free/reduced,54,high school,group C,62,none,158,42,Poor,Fail,52.666666666666664,52.7
+male,free/reduced,58,high school,group D,67,completed,192,67, Very Good,Pass,64,64
+male,free/reduced,38,high school,group D,38,completed,117,41,Poor,Fail,39,39
+male,free/reduced,48,high school,group D,46,none,144,50,Good,Fail,48,48
+male,free/reduced,217,high school,group D,210,none,623,196,Good,Pass,207.66666666666669,207.6
+male,free/reduced,150,high school,group E,128,completed,400,122, Very Good,Pass,133.33333333333331,133.3
+male,free/reduced,81,high school,group E,84,none,243,78,Excellent,Pass,81,81
+male,free/reduced,120,high school,group E,111,none,329,98,Good,Pass,109.66666666666667,109.6
+male,free/reduced,84,master's degree,group A,85,none,256,87,Excellent,Pass,85.33333333333333,85.3
+male,free/reduced,71,master's degree,group B,75,completed,219,73, Very Good,Pass,73,73
+male,free/reduced,141,master's degree,group B,133,none,406,132, Very Good,Pass,135.33333333333331,135.3
+male,free/reduced,56,master's degree,group B,46,none,145,43,Good,Fail,48.333333333333336,48.3
+male,free/reduced,109,master's degree,group B,114,none,335,112,Good,Pass,111.66666666666666,111.7
+male,free/reduced,57,master's degree,group C,64,completed,187,66, Very Good,Pass,62.333333333333336,62.3
+male,free/reduced,82,master's degree,group C,69,none,227,76, Very Good,Pass,75.66666666666667,75.7
+male,free/reduced,45,master's degree,group C,53,none,143,45,Good,Fail,47.666666666666664,47.7
+male,free/reduced,57,master's degree,group C,54,none,159,48,Good,Pass,53,53
+male,free/reduced,142,master's degree,group D,141,completed,429,146, Very Good,Pass,143,143
+male,free/reduced,91,master's degree,group D,93,completed,279,95,Excellent,Pass,93,93
+male,free/reduced,75,master's degree,group D,65,none,205,65, Very Good,Pass,68.33333333333333,68.3
+male,free/reduced,83,master's degree,group D,86,none,256,87,Excellent,Pass,85.33333333333333,85.3
+male,free/reduced,211,master's degree,group E,193,none,589,185, Very Good,Pass,196.33333333333331,196.3
+male,free/reduced,74,some college,group A,75,completed,227,78, Very Good,Pass,75.66666666666667,75.7
+male,free/reduced,43,some college,group A,43,none,126,40,Good,Fail,42,42
+male,free/reduced,76,some college,group B,83,completed,237,78, Very Good,Pass,79,79
+male,free/reduced,58,some college,group B,57,completed,173,58,Good,Pass,57.666666666666664,57.7
+male,free/reduced,218,some college,group B,211,none,632,203, Very Good,Pass,210.66666666666669,210.7
+male,free/reduced,137,some college,group B,143,none,398,118,Good,Fail,132.66666666666669,132.6
+male,free/reduced,108,some college,group B,104,none,309,97,Good,Pass,103,103
+male,free/reduced,326,some college,group C,344,completed,1005,335, Very Good,Pass,334.99999999999994,335
+male,free/reduced,417,some college,group C,417,none,1228,394, Very Good,Pass,409.33333333333337,409.5
+male,free/reduced,164,some college,group C,171,none,505,170,Good,Pass,168.33333333333334,168.3
+male,free/reduced,33,some college,group C,42,none,116,41,Poor,Fail,38.666666666666664,38.7
+male,free/reduced,217,some college,group D,223,completed,659,219, Very Good,Pass,219.66666666666669,219.7
+male,free/reduced,56,some college,group D,61,completed,179,62,Good,Pass,59.666666666666664,59.7
+male,free/reduced,211,some college,group D,191,none,586,184, Very Good,Pass,195.33333333333331,195.3
+male,free/reduced,59,some college,group D,45,none,148,44,Good,Fail,49.333333333333336,49.3
+male,free/reduced,189,some college,group D,167,none,516,160,Good,Pass,172,172
+male,free/reduced,72,some college,group E,73,completed,220,75, Very Good,Pass,73.33333333333333,73.3
+male,free/reduced,140,some college,group E,140,none,405,125, Very Good,Pass,135,135
+male,free/reduced,59,some high school,group A,55,completed,172,58,Good,Pass,57.333333333333336,57.3
+male,free/reduced,64,some high school,group B,62,completed,181,55, Very Good,Pass,60.333333333333336,60.3
+male,free/reduced,58,some high school,group B,56,completed,167,53,Good,Pass,55.666666666666664,55.7
+male,free/reduced,46,some high school,group B,41,none,127,40,Good,Fail,42.333333333333336,42.3
+male,free/reduced,71,some high school,group B,85,none,218,62,Poor,Fail,72.66666666666667,72.6
+male,free/reduced,63,some high school,group C,69,completed,195,63, Very Good,Pass,65,65
+male,free/reduced,153,some high school,group C,143,none,431,135, Very Good,Pass,143.66666666666669,143.7
+male,free/reduced,125,some high school,group C,112,none,342,105,Good,Pass,114,114
+male,free/reduced,69,some high school,group D,70,completed,214,75, Very Good,Pass,71.33333333333333,71.3
+male,free/reduced,122,some high school,group D,152,completed,426,152,Good,Fail,142,142
+male,free/reduced,104,some high school,group D,110,completed,321,107,Good,Pass,107,107
+male,free/reduced,67,some high school,group D,63,none,193,63, Very Good,Pass,64.33333333333333,64.3
+male,free/reduced,49,some high school,group D,49,none,141,43,Good,Fail,47,47
+male,free/reduced,66,some high school,group E,60,none,185,59, Very Good,Pass,61.666666666666664,61.7
+male,free/reduced,104,some high school,group E,99,none,297,94,Good,Fail,99,99
+male,standard,164,associate's degree,group A,140,completed,447,143, Very Good,Pass,149,149
+male,standard,96,associate's degree,group A,82,completed,268,90,Excellent,Pass,89.33333333333333,89.3
+male,standard,55,associate's degree,group A,62,completed,175,58,Good,Pass,58.333333333333336,58.3
+male,standard,83,associate's degree,group A,83,none,236,70, Very Good,Pass,78.66666666666667,78.7
+male,standard,60,associate's degree,group A,56,none,173,57,Good,Pass,57.666666666666664,57.7
+male,standard,37,associate's degree,group A,40,none,113,36,Poor,Fail,37.666666666666664,37.7
+male,standard,155,associate's degree,group B,156,completed,466,155, Very Good,Pass,155.33333333333331,155.3
+male,standard,286,associate's degree,group B,246,none,775,243, Very Good,Pass,258.3333333333333,258.4
+male,standard,47,associate's degree,group B,48,none,144,49,Good,Fail,48,48
+male,standard,59,associate's degree,group B,52,none,156,45,Good,Pass,52,52
+male,standard,76,associate's degree,group C,82,completed,235,77, Very Good,Pass,78.33333333333333,78.3
+male,standard,454,associate's degree,group C,423,none,1281,404, Very Good,Pass,427,427
+male,standard,179,associate's degree,group C,164,none,501,158,Excellent,Pass,167,167
+male,standard,99,associate's degree,group C,95,none,276,82,Good,Fail,92,92
+male,standard,202,associate's degree,group D,196,completed,606,208, Very Good,Pass,202,202
+male,standard,476,associate's degree,group D,443,completed,1366,447,Excellent,Pass,455.3333333333333,455.3
+male,standard,591,associate's degree,group D,557,none,1674,526, Very Good,Pass,558,558
+male,standard,752,associate's degree,group D,712,none,2153,689,Excellent,Pass,717.6666666666667,717.7
+male,standard,44,associate's degree,group D,45,none,130,41,Good,Fail,43.333333333333336,43.3
+male,standard,118,associate's degree,group D,119,none,347,110,Good,Pass,115.66666666666666,115.7
+male,standard,166,associate's degree,group E,153,completed,472,153, Very Good,Pass,157.33333333333331,157.3
+male,standard,181,associate's degree,group E,165,completed,516,170,Excellent,Pass,172,172
+male,standard,306,associate's degree,group E,280,none,843,257, Very Good,Pass,281,280.9
+male,standard,172,associate's degree,group E,171,none,507,164,Excellent,Pass,169,169
+male,standard,56,associate's degree,group E,44,none,144,44,Good,Fail,48,48
+male,standard,64,bachelor's degree,group B,70,completed,206,72, Very Good,Pass,68.66666666666667,68.7
+male,standard,182,bachelor's degree,group B,164,completed,521,175,Excellent,Pass,173.66666666666669,173.7
+male,standard,62,bachelor's degree,group B,60,completed,177,55,Good,Pass,59,59
+male,standard,166,bachelor's degree,group B,149,none,456,141, Very Good,Pass,152,152
+male,standard,84,bachelor's degree,group B,80,none,241,77,Excellent,Pass,80.33333333333333,80.3
+male,standard,63,bachelor's degree,group B,46,none,155,46,Good,Pass,51.666666666666664,51.7
+male,standard,137,bachelor's degree,group C,129,completed,399,133, Very Good,Pass,133,133
+male,standard,86,bachelor's degree,group C,77,completed,243,80,Excellent,Pass,81,81
+male,standard,558,bachelor's degree,group C,509,none,1611,544, Very Good,Pass,537,536.9
+male,standard,91,bachelor's degree,group C,83,none,256,82,Excellent,Pass,85.33333333333333,85.3
+male,standard,129,bachelor's degree,group C,99,none,334,106,Good,Pass,111.33333333333334,111.3
+male,standard,295,bachelor's degree,group D,287,completed,878,296,Excellent,Pass,292.6666666666667,292.7
+male,standard,348,bachelor's degree,group D,336,none,1013,329, Very Good,Pass,337.66666666666663,337.6
+male,standard,94,bachelor's degree,group D,80,none,253,79,Good,Fail,84.33333333333334,84.3
+male,standard,195,bachelor's degree,group E,190,completed,574,189,Excellent,Pass,191.33333333333331,191.3
+male,standard,85,bachelor's degree,group E,77,none,240,78,Excellent,Pass,80,80
+male,standard,56,bachelor's degree,group E,50,none,156,50,Good,Pass,52,52
+male,standard,163,high school,group A,143,completed,447,141, Very Good,Pass,149,149
+male,standard,78,high school,group A,88,completed,251,85,Excellent,Pass,83.66666666666667,83.7
+male,standard,78,high school,group A,72,none,216,66, Very Good,Pass,72,72
+male,standard,56,high school,group A,45,none,139,38,Good,Fail,46.333333333333336,46.3
+male,standard,85,high school,group B,75,completed,232,72, Very Good,Pass,77.33333333333333,77.3
+male,standard,88,high school,group B,87,completed,260,85,Excellent,Pass,86.66666666666667,86.7
+male,standard,282,high school,group B,261,none,784,241, Very Good,Pass,261.3333333333333,261.3
+male,standard,86,high school,group B,82,none,240,72,Excellent,Pass,80,80
+male,standard,140,high school,group B,150,none,422,132,Good,Fail,140.66666666666666,140.7
+male,standard,118,high school,group B,113,none,342,111,Good,Pass,114,114
+male,standard,516,high school,group C,484,completed,1488,488, Very Good,Pass,496,496
+male,standard,742,high school,group C,693,none,2085,650, Very Good,Pass,695,694.9
+male,standard,356,high school,group C,323,none,995,316,Excellent,Pass,331.66666666666663,331.6
+male,standard,49,high school,group C,53,none,145,43,Good,Fail,48.333333333333336,48.3
+male,standard,69,high school,group C,58,none,179,52,Good,Pass,59.666666666666664,59.7
+male,standard,31,high school,group C,27,none,77,19,Poor,Fail,25.666666666666668,25.7
+male,standard,504,high school,group D,495,completed,1500,501, Very Good,Pass,500,500.1
+male,standard,170,high school,group D,159,completed,489,160,Excellent,Pass,163,163
+male,standard,405,high school,group D,349,none,1098,344, Very Good,Pass,366,366
+male,standard,85,high school,group D,81,none,249,83,Excellent,Pass,83,83
+male,standard,118,high school,group D,101,none,311,92,Good,Pass,103.66666666666666,103.7
+male,standard,84,high school,group E,79,completed,238,75, Very Good,Pass,79.33333333333333,79.3
+male,standard,83,high school,group E,80,completed,245,82,Excellent,Pass,81.66666666666667,81.7
+male,standard,161,high school,group E,142,none,435,132, Very Good,Pass,145,145
+male,standard,466,high school,group E,435,none,1309,408,Excellent,Pass,436.3333333333333,436.3
+male,standard,59,master's degree,group A,57,none,167,51,Good,Pass,55.666666666666664,55.7
+male,standard,68,master's degree,group B,65,none,193,60, Very Good,Pass,64.33333333333333,64.3
+male,standard,280,master's degree,group B,257,none,792,255,Excellent,Pass,264,264
+male,standard,114,master's degree,group B,106,none,321,101,Good,Pass,107,107
+male,standard,79,master's degree,group C,72,completed,225,74, Very Good,Pass,75,75
+male,standard,229,master's degree,group C,215,none,647,203, Very Good,Pass,215.66666666666666,215.6
+male,standard,178,master's degree,group C,159,none,494,157,Excellent,Pass,164.66666666666669,164.7
+male,standard,229,master's degree,group D,198,none,624,197, Very Good,Pass,208,208
+male,standard,182,master's degree,group D,181,none,535,172,Excellent,Pass,178.33333333333331,178.3
+male,standard,44,master's degree,group D,39,none,120,37,Good,Fail,40,40
+male,standard,172,master's degree,group E,165,completed,505,168,Excellent,Pass,168.33333333333331,168.3
+male,standard,180,master's degree,group E,167,none,499,152,Excellent,Pass,166.33333333333331,166.3
+male,standard,43,master's degree,group E,45,none,126,38,Good,Fail,42,42
+male,standard,92,some college,group A,86,completed,266,88,Excellent,Pass,88.66666666666667,88.7
+male,standard,56,some college,group A,51,completed,151,44,Good,Pass,50.333333333333336,50.3
+male,standard,231,some college,group A,218,none,648,199, Very Good,Pass,216,216
+male,standard,120,some college,group A,122,none,354,112,Good,Pass,118,118
+male,standard,77,some college,group B,68,completed,211,66, Very Good,Pass,70.33333333333333,70.3
+male,standard,83,some college,group B,79,completed,242,80,Excellent,Pass,80.66666666666667,80.7
+male,standard,461,some college,group B,435,none,1302,406, Very Good,Pass,434,434
+male,standard,178,some college,group B,161,none,489,150,Good,Pass,163,163
+male,standard,296,some college,group C,275,completed,848,277, Very Good,Pass,282.66666666666663,282.7
+male,standard,254,some college,group C,254,completed,759,251,Excellent,Pass,253,253.1
+male,standard,48,some college,group C,38,completed,132,46,Good,Fail,44,44
+male,standard,753,some college,group C,701,none,2100,646, Very Good,Pass,700,700
+male,standard,86,some college,group C,82,none,240,72,Excellent,Pass,80,80
+male,standard,148,some college,group C,139,none,415,128,Good,Fail,138.33333333333331,138.4
+male,standard,161,some college,group C,182,none,512,169,Good,Pass,170.66666666666669,170.6
+male,standard,219,some college,group D,191,completed,610,200, Very Good,Pass,203.33333333333334,203.3
+male,standard,272,some college,group D,268,completed,804,264,Excellent,Pass,268,268
+male,standard,527,some college,group D,481,none,1495,487, Very Good,Pass,498.33333333333337,498.4
+male,standard,271,some college,group D,251,none,769,247,Excellent,Pass,256.3333333333333,256.3
+male,standard,122,some college,group D,122,none,349,105,Good,Pass,116.33333333333333,116.4
+male,standard,80,some college,group E,70,completed,221,71, Very Good,Pass,73.66666666666667,73.7
+male,standard,648,some college,group E,608,completed,1843,587,Excellent,Pass,614.3333333333334,614.4
+male,standard,61,some college,group E,49,completed,162,52,Good,Pass,54,54
+male,standard,237,some college,group E,216,none,650,197, Very Good,Pass,216.66666666666669,216.7
+male,standard,371,some college,group E,332,none,1035,332,Excellent,Pass,345,345
+male,standard,146,some high school,group A,125,completed,405,134, Very Good,Pass,135,135
+male,standard,56,some high school,group A,53,completed,162,53,Good,Pass,54,54
+male,standard,83,some high school,group A,77,none,237,77, Very Good,Pass,79,79
+male,standard,121,some high school,group A,114,none,337,102,Good,Pass,112.33333333333334,112.3
+male,standard,72,some high school,group B,62,completed,196,62, Very Good,Pass,65.33333333333333,65.3
+male,standard,45,some high school,group B,50,completed,143,48,Good,Fail,47.666666666666664,47.7
+male,standard,305,some high school,group B,267,none,824,252, Very Good,Pass,274.6666666666667,274.7
+male,standard,104,some high school,group B,88,none,269,77,Good,Fail,89.66666666666667,89.6
+male,standard,63,some high school,group B,56,none,166,47,Good,Pass,55.333333333333336,55.3
+male,standard,125,some high school,group C,140,completed,395,130, Very Good,Pass,131.66666666666669,131.7
+male,standard,169,some high school,group C,170,completed,504,165,Excellent,Pass,168,168
+male,standard,112,some high school,group C,110,completed,336,114,Good,Pass,112,112
+male,standard,551,some high school,group C,542,none,1613,520, Very Good,Pass,537.6666666666667,537.6
+male,standard,261,some high school,group C,252,none,745,232,Excellent,Pass,248.33333333333337,248.4
+male,standard,102,some high school,group C,94,none,286,90,Good,Fail,95.33333333333334,95.3
+male,standard,307,some high school,group C,279,none,838,252,Good,Pass,279.3333333333333,279.4
+male,standard,28,some high school,group C,27,none,78,23,Poor,Fail,26,26
+male,standard,382,some high school,group D,373,completed,1139,384, Very Good,Pass,379.6666666666667,379.7
+male,standard,100,some high school,group D,84,completed,271,87,Excellent,Pass,90.33333333333333,90.3
+male,standard,116,some high school,group D,105,completed,335,114,Good,Pass,111.66666666666666,111.7
+male,standard,606,some high school,group D,549,none,1694,539, Very Good,Pass,564.6666666666667,564.7
+male,standard,180,some high school,group D,165,none,508,163,Excellent,Pass,169.33333333333331,169.3
+male,standard,51,some high school,group D,53,none,149,45,Good,Fail,49.666666666666664,49.7
+male,standard,182,some high school,group D,151,none,481,148,Good,Pass,160.33333333333331,160.4
+male,standard,87,some high school,group E,83,completed,250,80,Excellent,Pass,83.33333333333333,83.3
+male,standard,445,some high school,group E,393,none,1214,376, Very Good,Pass,404.66666666666663,404.6
+male,standard,280,some high school,group E,241,none,756,235,Excellent,Pass,252,251.9
